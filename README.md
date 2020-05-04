@@ -4,7 +4,7 @@ It is _certain_ that many of us began 2020 with **high hopes** for a clean slate
 
 > “This is a serious natural disaster — I don’t think a lot of people are thinking about it that way just because there’s no winds and there’s no floods. . . But this is a real natural disaster that’s affecting people at the most basic level.”
 
-![image](./imgs/empty_starbux.jpeg)
+![image](/empty_starbux.jpeg)
 Image description: A photo of the original Starbucks store located in Pike Place, Seattle. Where a long line of customers filing out the door was a common sight, it stands empty and closed.
 
 Additional information:
